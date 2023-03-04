@@ -1,0 +1,4 @@
+{
+    "testRepo": "Hot-or-Cold-Part-Solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
